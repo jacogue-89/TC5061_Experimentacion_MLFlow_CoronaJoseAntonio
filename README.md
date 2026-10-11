@@ -39,7 +39,7 @@ Instalar todas las librerías necesarias ejecutando:
 pip install -r requirements.txt
 
 # Instrucciones para la ejecución
-Descargar y usar la base de datos de este repositorio "diabetes_binary_health_indicators_BRFSS2015"
+Descargar y usar la base de datos de este repositorio "diabetes_binary_health_indicators_BRFSS2015" y colocarlo en la carpeta raíz del proyecto, al mismo nivel que train.py.
 El script train.py permite parametrizar hiperparámetros por línea de comandos. Si no se especifican argumentos, se ejecutará con los valores pro default
 
 1. Ejecución Básica (valores default)
