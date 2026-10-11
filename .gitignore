@@ -1,0 +1,10 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Entorno virtual y librerías instaladas
+# Ignorar absolutamente todo por defecto
+*
+
+# Excepciones: Permitir únicamente estos archivos esenciales
+!.gitignore
+!train.py
+!requirements.txt
+!README.md
